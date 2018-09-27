@@ -1,0 +1,23 @@
+{
+  "name": "zsearch",
+  "version": "1.0.0",
+  "description": "search powered by watson ,enhance for precise search",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "search"
+  ],
+  "author": "See Kai Cong",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3",
+    "node-cmd": "^3.0.0",
+    "pdfreader": "^0.2.5",
+    "regex": "^0.1.1",
+    "request": "^2.88.0",
+    "socket.io": "^2.1.1",
+    "watson-developer-cloud": "^3.10.0"
+  }
+}
