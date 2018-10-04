@@ -12,6 +12,7 @@
   "author": "See Kai Cong",
   "license": "ISC",
   "dependencies": {
+    "bootstrap": "^4.1.3",
     "express": "^4.16.3",
     "get-pixels": "^3.3.2",
     "jimp": "^0.5.3",
