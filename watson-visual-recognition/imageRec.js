@@ -1,7 +1,7 @@
 const {visualRecognition} = require('./setUp.js');
 const fs = require('fs');
 
-var images_file = fs.createReadStream('./watson-visual-recognition/img/guy.jpg');
+var images_file = fs.createReadStream('./img/guy.jpg');
 
 var params = {
   images_file: images_file
